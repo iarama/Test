@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "git trigger 3"
+echo "git trigger4" 
